@@ -1,0 +1,15 @@
+div.main{
+  width: 1000px;
+  padding: 30px;
+}
+span.edit{
+  width: 300px;
+  margin: 0px;
+}
+span.add{
+  margin: 0;
+  display: none;
+  width: 300px;
+  position: relative;
+
+}
